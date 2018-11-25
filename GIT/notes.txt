@@ -94,5 +94,5 @@ git clone repoName
 git pull origin master
 
 git push -u origin <branch> -f (push local brach on server)
-git push --all -u (push all things on remote server)
+git push --all -u -f(push all things on remote server)
 git pull --all (pull all data from server)
